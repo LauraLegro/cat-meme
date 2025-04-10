@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family:monospace;
+    font-style: italic;
+    letter-spacing: 2px;
+    font-size: 42px;
+    
+
+}
+img {
+    margin: 0 auto;
+    max-width: 90%;
+    max-height: 90%;
+    background-size:cover;
+    
+}
+body {
+    background-color: rgb(70, 58, 65);
+    margin: 0 auto;
+    overflow: auto;
+}
+#img-box {
+    margin: 0 auto;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#new-cat-btn {
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #fff;
+}
+button {
+    background-color: hotpink;
+    padding: 20px 30px;
+    width: 300px;
+    border: none;
+   
+}
