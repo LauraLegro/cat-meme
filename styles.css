@@ -16,8 +16,8 @@ img {
   background-size: contain;
 }
 body {
-  background-color: rgb(160, 152, 239);
-  margin: 0;
+  background-color: rgb(182, 100, 148);
+  margin: 0 auto;
   overflow: auto;
   display: flex;
   flex-direction: column;
